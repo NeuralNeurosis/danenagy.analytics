@@ -1,17 +1,11 @@
-Dane Nagy(.com)
 
-My portfolio site.
-A little about me. I am a Web Developer that works with multiple web languages, frameworks and services. I have built each of the pages on this site utilizing a different base technology. 
 
-This page was built utilizing standard HTML5 {insert HTML5 icon} and CSS3. The code for this page can be found at my public git hub repo https://github.com/NeuralNeurosis/danenagy. 
+We specialize in bridging the gap between the of your animus pf your ideas and the elemental forms needed to bring them to life. 
 
-I hope to showcase my skills and experience with different methodologies building Web service to show my flexablity in the projects that I do and my flexablity and skill in learning and applying new technology.
-
-Currently I work full time as a Web Developer for Apollo Design Technology. I have had a lot of opportunity for learning in my past from working in warehousing and building inventory systems, managing parts and deliveries, serving in high end restaurants, bar tending, and working as an accupressurist.
-My formal academic educataion consists of two years at Ivy Tech Fort Wayne where I received a Associates of Arts in Business Adminstation with Honors and a 3.9 GPA. My experience here  combined my real world business experience with rigourous acedemic inquiry and a great foundation in understanding human psychology as it applies to both life and business. From here I transitioned to Indiana Purdue Fort Wayne and received my Bachelors of Arts in General Studies with a 3.6 GPA. I  If you would like to see my LinkedIn page click here{https://www.linkedin.com/in/dane-nagy-9996b515/ I think a block or cicrle that folded out would be pretty cool with the link on it.}. 
-
-I am a solutions oriented person. I want to help you find the right answer among the infinte web to form a  digital product that stands out and fulfills your goals and intentions.
+We focused on finding the right questions to ask to arrive at the most opportune solution. We want to help you find the right answer among the infinte scape of the web to form work that stands out and fulfills your intentions.
 
 I design, strategize, paint, draw, craft, build, and code materials that meet your needs while serving your users.  
 
 Come discover with me. 
+
+
